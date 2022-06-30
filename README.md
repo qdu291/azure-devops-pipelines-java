@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/quangdu-learning/FirstProject/_apis/build/status/qdu291.azure-devops-pipelines-java?branchName=main)](https://dev.azure.com/quangdu-learning/FirstProject/_build/latest?definitionId=3&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
